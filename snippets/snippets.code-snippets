@@ -1,0 +1,622 @@
+{
+    "5f69342186c97": {
+        "prefix": "keywords",
+        "body": "<meta name=\"keywords\" content=\"your tags\" />\n",
+        "description": "keywords"
+    },
+    "5f69342186cae": {
+        "prefix": "description",
+        "body": "<meta name=\"description\" content=\"150 words\" />\n",
+        "description": "description"
+    },
+    "5f69342186cb1": {
+        "prefix": "subject",
+        "body": "<meta name=\"subject\" content=\"your website's subject\">\n",
+        "description": "subject"
+    },
+    "5f69342186cb4": {
+        "prefix": "language",
+        "body": "<meta name=\"language\" content=\"ES\">\n",
+        "description": "language"
+    },
+    "5f69342186cb6": {
+        "prefix": "robots",
+        "body": "<meta name=\"robots\" content=\"indexfollow\" />\n",
+        "description": "robots"
+    },
+    "5f69342186cb8": {
+        "prefix": "revised",
+        "body": "<meta name=\"revised\" content=\"Friday August 26th 2018 5:55 pm\" />\n",
+        "description": "revised"
+    },
+    "5f69342186cbb": {
+        "prefix": "abstract",
+        "body": "<meta name=\"abstract\" content=\"\">\n",
+        "description": "abstract"
+    },
+    "5f69342186cbd": {
+        "prefix": "topic",
+        "body": "<meta name=\"topic\" content=\"\">\n",
+        "description": "topic"
+    },
+    "5f69342186cc0": {
+        "prefix": "summary",
+        "body": "<meta name=\"summary\" content=\"\">\n",
+        "description": "summary"
+    },
+    "5f69342186cc2": {
+        "prefix": "Classification",
+        "body": "<meta name=\"Classification\" content=\"Business\">\n",
+        "description": "Classification"
+    },
+    "5f69342186cc4": {
+        "prefix": "author",
+        "body": "<meta name=\"author\" content=\"name email@gmail.com\">\n",
+        "description": "author"
+    },
+    "5f69342186cc7": {
+        "prefix": "designer",
+        "body": "<meta name=\"designer\" content=\"\">\n",
+        "description": "designer"
+    },
+    "5f69342186cc9": {
+        "prefix": "copyright",
+        "body": "<meta name=\"copyright\" content=\"\">\n",
+        "description": "copyright"
+    },
+    "5f69342186ccb": {
+        "prefix": "reply-to",
+        "body": "<meta name=\"reply-to\" content=\"email@gmai.com\">\n",
+        "description": "reply-to"
+    },
+    "5f69342186ccd": {
+        "prefix": "owner",
+        "body": "<meta name=\"owner\" content=\"\">\n",
+        "description": "owner"
+    },
+    "5f69342186cd0": {
+        "prefix": "url",
+        "body": "<meta name=\"url\" content=\"https://www.wwcelebrities.com\">\n",
+        "description": "url"
+    },
+    "5f69342186cd2": {
+        "prefix": "identifier-URL",
+        "body": "<meta name=\"identifier-URL\" content=\"http://www.websiteaddress.com\">\n",
+        "description": "identifier-URL"
+    },
+    "5f69342186cd5": {
+        "prefix": "directory",
+        "body": "<meta name=\"directory\" content=\"submission\">\n",
+        "description": "directory"
+    },
+    "5f69342186cd7": {
+        "prefix": "category",
+        "body": "<meta name=\"category\" content=\"\">\n",
+        "description": "category"
+    },
+    "5f69342186cd9": {
+        "prefix": "coverage",
+        "body": "<meta name=\"coverage\" content=\"Worldwide\">\n",
+        "description": "coverage"
+    },
+    "5f69342186cdb": {
+        "prefix": "distribution",
+        "body": "<meta name=\"distribution\" content=\"Global\">\n",
+        "description": "distribution"
+    },
+    "5f69342186cdd": {
+        "prefix": "rating",
+        "body": "<meta name=\"rating\" content=\"General\">\n",
+        "description": "rating"
+    },
+    "5f69342186cdf": {
+        "prefix": "revisit-after",
+        "body": "<meta name=\"revisit-after\" content=\"7 days\">\n",
+        "description": "revisit-after"
+    },
+    "5f69342186ce2": {
+        "prefix": "Expires",
+        "body": "<meta http-equiv=\"Expires\" content=\"0\">\n",
+        "description": "Expires"
+    },
+    "5f69342186ce4": {
+        "prefix": "Pragma",
+        "body": "<meta http-equiv=\"Pragma\" content=\"no-cache\">\n",
+        "description": "Pragma"
+    },
+    "5f69342186ce6": {
+        "prefix": "Cache-Control",
+        "body": "<meta http-equiv=\"Cache-Control\" content=\"no-cache\">\n",
+        "description": "Cache-Control"
+    },
+    "5f69342186ce8": {
+        "prefix": "og:title",
+        "body": "<meta name=\"og:title\" content=\"The Rock\" />\n",
+        "description": "og:title"
+    },
+    "5f69342186cea": {
+        "prefix": "og:type",
+        "body": "<meta name=\"og:type\" content=\"fashion\" />\n",
+        "description": "og:type"
+    },
+    "5f69342186ced": {
+        "prefix": "og:url",
+        "body": "<meta name=\"og:url\" content=\"https://www.wwcelebrities.com/2018/10/8-tips-fashion-help.html\" />\n",
+        "description": "og:url"
+    },
+    "5f69342186cef": {
+        "prefix": "og:image",
+        "body": "<meta name=\"og:image\" content=\"http://tny.im/goh\" />\n",
+        "description": "og:image"
+    },
+    "5f69342186d1c": {
+        "prefix": "og:site_name",
+        "body": "<meta name=\"og:site_name\" content=\"WWCelebrities\" />\n",
+        "description": "og:site_name"
+    },
+    "5f69342186d1f": {
+        "prefix": "og:description",
+        "body": "<meta name=\"og:description\" content=\"......\" />\n",
+        "description": "og:description"
+    },
+    "5f69342186d21": {
+        "prefix": "fb:page_id",
+        "body": "<meta name=\"fb:page_id\" content=\"YOUR ID In profile url after ID#\" />\n",
+        "description": "fb:page_id"
+    },
+    "5f69342186d2a": {
+        "prefix": "og:email",
+        "body": "<meta name=\"og:email\" content=\"me@example.com\" />\n",
+        "description": "og:email"
+    },
+    "5f69342186d2c": {
+        "prefix": "og:phone_number",
+        "body": "<meta name=\"og:phone_number\" content=\"650-123-4567\" />\n",
+        "description": "og:phone_number"
+    },
+    "5f69342186d2e": {
+        "prefix": "og:fax_number",
+        "body": "<meta name=\"og:fax_number\" content=\"+1-415-123-4567\" />\n",
+        "description": "og:fax_number"
+    },
+    "5f69342186d30": {
+        "prefix": "og:latitude",
+        "body": "<meta name=\"og:latitude\" content=\"37.416343\" />\n",
+        "description": "og:latitude"
+    },
+    "5f69342186d32": {
+        "prefix": "og:longitude",
+        "body": "<meta name=\"og:longitude\" content=\"-122.153013\" />\n",
+        "description": "og:longitude"
+    },
+    "5f69342186d35": {
+        "prefix": "og:street-address",
+        "body": "<meta name=\"og:street-address\" content=\"1601 S California Ave\" />\n",
+        "description": "og:street-address"
+    },
+    "5f69342186d37": {
+        "prefix": "og:locality",
+        "body": "<meta name=\"og:locality\" content=\"Palo Alto\" />\n",
+        "description": "og:locality"
+    },
+    "5f69342186d39": {
+        "prefix": "og:region",
+        "body": "<meta name=\"og:region\" content=\"CA\" />\n",
+        "description": "og:region"
+    },
+    "5f69342186d3b": {
+        "prefix": "og:postal-code",
+        "body": "<meta name=\"og:postal-code\" content=\"94304\" />\n",
+        "description": "og:postal-code"
+    },
+    "5f69342186d3d": {
+        "prefix": "og:country-name",
+        "body": "<meta name=\"og:country-name\" content=\"USA\" />\n",
+        "description": "og:country-name"
+    },
+    "5f69342186d3f": {
+        "prefix": "og:type",
+        "body": "<meta property=\"og:type\" content=\"game.achievement\" />\n",
+        "description": "og:type"
+    },
+    "5f69342186d42": {
+        "prefix": "og:points",
+        "body": "<meta property=\"og:points\" content=\"POINTS_FOR_ACHIEVEMENT\" />\n",
+        "description": "og:points"
+    },
+    "5f69342186d4a": {
+        "prefix": "og:video",
+        "body": "<meta property=\"og:video\" content=\"http://example.com/awesome.swf\" />\n",
+        "description": "og:video"
+    },
+    "5f69342186d4d": {
+        "prefix": "og:video:height",
+        "body": "<meta property=\"og:video:height\" content=\"640\" />\n",
+        "description": "og:video:height"
+    },
+    "5f69342186d55": {
+        "prefix": "og:video:width",
+        "body": "<meta property=\"og:video:width\" content=\"385\" />\n",
+        "description": "og:video:width"
+    },
+    "5f69342186d57": {
+        "prefix": "og:video:type",
+        "body": "<meta property=\"og:video:type\" content=\"application/x-shockwave-flash\" />\n",
+        "description": "og:video:type"
+    },
+    "5f69342186d60": {
+        "prefix": "og:video",
+        "body": "<meta property=\"og:video\" content=\"http://example.com/html5.mp4\" />\n",
+        "description": "og:video"
+    },
+    "5f69342186d62": {
+        "prefix": "og:video:type",
+        "body": "<meta property=\"og:video:type\" content=\"video/mp4\" />\n",
+        "description": "og:video:type"
+    },
+    "5f69342186d64": {
+        "prefix": "og:video",
+        "body": "<meta property=\"og:video\" content=\"http://example.com/fallback.vid\" />\n",
+        "description": "og:video"
+    },
+    "5f69342186d67": {
+        "prefix": "og:video:type",
+        "body": "<meta property=\"og:video:type\" content=\"text/html\" />\n",
+        "description": "og:video:type"
+    },
+    "5f69342186d69": {
+        "prefix": "og:audio",
+        "body": "<meta property=\"og:audio\" content=\"http://example.com/amazing.mp3\" />\n",
+        "description": "og:audio"
+    },
+    "5f69342186d6b": {
+        "prefix": "og:audio:title",
+        "body": "<meta property=\"og:audio:title\" content=\"Best Song\" />\n",
+        "description": "og:audio:title"
+    },
+    "5f69342186d6d": {
+        "prefix": "og:audio:artist",
+        "body": "<meta property=\"og:audio:artist\" content=\"Best Band\" />\n",
+        "description": "og:audio:artist"
+    },
+    "5f69342186d6f": {
+        "prefix": "og:audio:album",
+        "body": "<meta property=\"og:audio:album\" content=\"Best Album\" />\n",
+        "description": "og:audio:album"
+    },
+    "5f69342186d71": {
+        "prefix": "og:audio:type",
+        "body": "<meta property=\"og:audio:type\" content=\"application/mp3\" />\n",
+        "description": "og:audio:type"
+    },
+    "5f69342186d74": {
+        "prefix": "google-analytics",
+        "body": "<meta name=\"google-analytics\" content=\"#\"/>\n",
+        "description": "google-analytics"
+    },
+    "5f69342186d76": {
+        "prefix": "disqus",
+        "body": "<meta name=\"disqus\" content=\"#\"/>\n",
+        "description": "disqus"
+    },
+    "5f69342186d78": {
+        "prefix": "uservoice",
+        "body": "<meta name=\"uservoice\" content=\"#\"/>\n",
+        "description": "uservoice"
+    },
+    "5f69342186d7a": {
+        "prefix": "mixpanel",
+        "body": "<meta name=\"mixpanel\" content=\"#\"/>\n",
+        "description": "mixpanel"
+    },
+    "5f69342186d9a": {
+        "prefix": "microid",
+        "body": "<meta name=\"microid\" content=\"YOUR MICRO ID\" />\n",
+        "description": "microid"
+    },
+    "5f69342186d9d": {
+        "prefix": "apple-mobile-web-app-capable",
+        "body": "<meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n",
+        "description": "apple-mobile-web-app-capable"
+    },
+    "5f69342186d9f": {
+        "prefix": "yes",
+        "body": "<meta content=\"yes\" name=\"apple-touch-fullscreen\" />\n",
+        "description": "yes"
+    },
+    "5f69342186db4": {
+        "prefix": "apple-mobile-web-app-status-bar-style",
+        "body": "<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black\">\n",
+        "description": "apple-mobile-web-app-status-bar-style"
+    },
+    "5f69342186db7": {
+        "prefix": "format-detection",
+        "body": "<meta name=\"format-detection\" content=\"telephone=no\">\n",
+        "description": "format-detection"
+    },
+    "5f69342186db9": {
+        "prefix": "viewport",
+        "body": "<meta name=\"viewport\" content=\"width = 320, initial-scale = 2.3, user-scalable = no\">\n",
+        "description": "viewport"
+    },
+    "5f69342186dbc": {
+        "prefix": "Page-Enter",
+        "body": "<meta http-equiv=\"Page-Enter\" content=\"RevealTrans(Duration=2.0,Transition=2)\" />\n",
+        "description": "Page-Enter"
+    },
+    "5f69342186dbe": {
+        "prefix": "Page-Exit",
+        "body": "<meta http-equiv=\"Page-Exit\" content=\"RevealTrans(Duration=3.0,Transition=12)\" />\n",
+        "description": "Page-Exit"
+    },
+    "5f69342186dc1": {
+        "prefix": "mssmarttagspreventparsing",
+        "body": "<meta name=\"mssmarttagspreventparsing\" content=\"true\">\n",
+        "description": "mssmarttagspreventparsing"
+    },
+    "5f69342186dc3": {
+        "prefix": "X-UA-Compatible",
+        "body": "<meta http-equiv=\"X-UA-Compatible\" content=\"chrome=1\">\n",
+        "description": "X-UA-Compatible"
+    },
+    "5f69342186dc5": {
+        "prefix": "msapplication-starturl",
+        "body": "<meta name=\"msapplication-starturl\" content=\"http://blog.reybango.com/about/\"/>\n",
+        "description": "msapplication-starturl"
+    },
+    "5f69342186dc7": {
+        "prefix": "msapplication-window",
+        "body": "<meta name=\"msapplication-window\" content=\"width=800;height=600\"/>\n",
+        "description": "msapplication-window"
+    },
+    "5f69342186dca": {
+        "prefix": "msapplication-navbutton-color",
+        "body": "<meta name=\"msapplication-navbutton-color\" content=\"red\"/>\n",
+        "description": "msapplication-navbutton-color"
+    },
+    "5f69342186dcc": {
+        "prefix": "application-name",
+        "body": "<meta name=\"application-name\" content=\"Rey Bango Front-end Developer\"/>\n",
+        "description": "application-name"
+    },
+    "5f69342186dce": {
+        "prefix": "msapplication-tooltip",
+        "body": "<meta name=\"msapplication-tooltip\" content=\"Launch Rey Bango's Blog\"/>\n",
+        "description": "msapplication-tooltip"
+    },
+    "5f69342186dd0": {
+        "prefix": "msapplication-task",
+        "body": "<meta name=\"msapplication-task\" content=\"name=About;action-uri=/about/;icon-uri=/images/about.ico\" />\n",
+        "description": "msapplication-task"
+    },
+    "5f69342186dd3": {
+        "prefix": "msapplication-task",
+        "body": "<meta name=\"msapplication-task\" content=\"name=The Big List;action-uri=/the-big-list-of-javascript-css-and-html-development-tools-libraries-projects-and-books/;icon-uri=/images/list_links.ico\" />\n",
+        "description": "msapplication-task"
+    },
+    "5f69342186dd5": {
+        "prefix": "msapplication-task",
+        "body": "<meta name=\"msapplication-task\" content=\"name=jQuery Posts;action-uri=/category/jquery/;icon-uri=/images/jquery.ico\" />\n",
+        "description": "msapplication-task"
+    },
+    "5f69342186dd8": {
+        "prefix": "msapplication-task",
+        "body": "<meta name=\"msapplication-task\" content=\"name=Start Developing;action-uri=/category/javascript/;icon-uri=/images/script.ico\" />\n",
+        "description": "msapplication-task"
+    },
+    "5f69342186de1": {
+        "prefix": "shortcut",
+        "body": "<link rel=\"shortcut icon\" href=\"/images/favicon.ico\" />\n",
+        "description": "shortcut"
+    },
+    "5f69342186de3": {
+        "prefix": "tweetmeme-title",
+        "body": "<meta name=\"tweetmeme-title\" content=\"Retweet-Button-Explained\" />\n",
+        "description": "tweetmeme-title"
+    },
+    "5f69342186de6": {
+        "prefix": "blogcatalog",
+        "body": "<meta name=\"blogcatalog\" />\n",
+        "description": "blogcatalog"
+    },
+    "5f69342186de8": {
+        "prefix": "csrf-param",
+        "body": "<meta name=\"csrf-param\" content=\"authenticity_token\"/>\n",
+        "description": "csrf-param"
+    },
+    "5f69342186dea": {
+        "prefix": "csrf-token",
+        "body": "<meta name=\"csrf-token\" content=\"/bZVwvomkAnwAI1Qd37lFeewvpOIiackk9121fFwWwc=\"/>\n",
+        "description": "csrf-token"
+    },
+    "5f69342186dec": {
+        "prefix": "apple-mobile-web-app-capable",
+        "body": "<meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\n",
+        "description": "apple-mobile-web-app-capable"
+    },
+    "5f69342186def": {
+        "prefix": "apple-mobile-web-app-status-bar-style",
+        "body": "<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black\">\n",
+        "description": "apple-mobile-web-app-status-bar-style"
+    },
+    "5f69342186df1": {
+        "prefix": "format-detection",
+        "body": "<meta name=\"format-detection\" content=\"telephone=no\">\n",
+        "description": "format-detection"
+    },
+    "5f69342186df3": {
+        "prefix": "viewport",
+        "body": "<meta name= \"viewport\" content = \"width = 320, initial-scale = 2.3, user-scalable = no\">\n",
+        "description": "viewport"
+    },
+    "5f69342186df6": {
+        "prefix": "viewport",
+        "body": "<meta name= \"viewport\" content = \"width = device-width\">\n",
+        "description": "viewport"
+    },
+    "5f69342186df8": {
+        "prefix": "viewport",
+        "body": "<meta name = \"viewport\" content = \"initial-scale = 1.0\">\n",
+        "description": "viewport"
+    },
+    "5f69342186dfb": {
+        "prefix": "viewport",
+        "body": "<meta name = \"viewport\" content = \"initial-scale = 2.3, user-scalable = no\">\n",
+        "description": "viewport"
+    },
+    "5f69342186dfd": {
+        "prefix": "apple-touch-icon",
+        "body": "<link rel=\"apple-touch-icon\" href=\"touch-icon-iphone.png\" />\n",
+        "description": "apple-touch-icon"
+    },
+    "5f69342186e1d": {
+        "prefix": "apple-touch-icon",
+        "body": "<link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"touch-icon-ipad.png\" />\n",
+        "description": "apple-touch-icon"
+    },
+    "5f69342186e20": {
+        "prefix": "apple-touch-icon",
+        "body": "<link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"touch-icon-iphone4.png\" />\n",
+        "description": "apple-touch-icon"
+    },
+    "5f69342186e22": {
+        "prefix": "apple-touch-startup-image",
+        "body": "<link rel=\"apple-touch-startup-image\" href=\"/startup.png\">\n",
+        "description": "apple-touch-startup-image"
+    },
+    "5f69342186e2a": {
+        "prefix": "apple-touch-icon",
+        "body": "<link rel=\"apple-touch-icon\" type=\"image/png\" href=\"/apple-touch-icon.png\" />\n",
+        "description": "apple-touch-icon"
+    },
+    "5f69342186e33": {
+        "prefix": "alternate",
+        "body": "<link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"http://feeds.feedburner.com\" />\n",
+        "description": "alternate"
+    },
+    "5f69342186e36": {
+        "prefix": "shortcut",
+        "body": "<link rel=\"shortcut icon\" type=\"image/ico\" href=\"/favicon.ico\" />\n",
+        "description": "shortcut"
+    },
+    "5f69342186e38": {
+        "prefix": "fluid-icon",
+        "body": "<link rel=\"fluid-icon\" type=\"image/png\" href=\"/fluid-icon.png\" />\n",
+        "description": "fluid-icon"
+    },
+    "5f69342186e3a": {
+        "prefix": "me",
+        "body": "<link rel=\"me\" type=\"text/html\" href=\"http://google.com/profiles/YOUR PROFILE NAME\"/>\n",
+        "description": "me"
+    },
+    "5f69342186e3d": {
+        "prefix": "shortlink",
+        "body": "<link rel='shortlink' href='' />\n",
+        "description": "shortlink"
+    },
+    "5f69342186e3f": {
+        "prefix": "archives",
+        "body": "<link rel='archives' title='May 2003' href='' />\n",
+        "description": "archives"
+    },
+    "5f69342186e41": {
+        "prefix": "index",
+        "body": "<link rel='index' title='DeWitt Clinton' href='' />\n",
+        "description": "index"
+    },
+    "5f69342186e44": {
+        "prefix": "start",
+        "body": "<link rel='start' title='Pattern Recognition 1' href='' />\n",
+        "description": "start"
+    },
+    "5f69342186e46": {
+        "prefix": "prev",
+        "body": "<link rel='prev' title='OpenSearch and OpenID?  A sure way to get my attention.' href='' />\n",
+        "description": "prev"
+    },
+    "5f69342186e48": {
+        "prefix": "next",
+        "body": "<link rel='next' title='Not blog' href='' />\n",
+        "description": "next"
+    },
+    "5f69342186e4a": {
+        "prefix": "search",
+        "body": "<link rel=\"search\" href=\"/search.xml\" type=\"application/opensearchdescription+xml\" title=\"Viatropos\" />\n",
+        "description": "search"
+    },
+    "5f69342186e4d": {
+        "prefix": "self",
+        "body": "<link rel=\"self\" type=\"application/atom+xml\" href=\"\"/>\n",
+        "description": "self"
+    },
+    "5f69342186e4f": {
+        "prefix": "first",
+        "body": "<link rel=\"first\" href=\"\"/>\n",
+        "description": "first"
+    },
+    "5f69342186e51": {
+        "prefix": "next",
+        "body": "<link rel=\"next\" href=\"?page=4\"/>\n",
+        "description": "next"
+    },
+    "5f69342186e54": {
+        "prefix": "previous",
+        "body": "<link rel=\"previous\" href=\"?page=2\"/>\n",
+        "description": "previous"
+    },
+    "5f69342186e5c": {
+        "prefix": "last",
+        "body": "<link rel=\"last\" href=\"?page=147\"/>\n",
+        "description": "last"
+    },
+    "5f69342186e5f": {
+        "prefix": "shortlink",
+        "body": "<link rel='shortlink' href='?p=43625' />\n",
+        "description": "shortlink"
+    },
+    "5f69342186e61": {
+        "prefix": "canonical",
+        "body": "<link rel=\"canonical\" href=\"2010/06/9-things-to-do-before-entering-social-media.html\" />\n",
+        "description": "canonical"
+    },
+    "5f69342186e63": {
+        "prefix": "EditURI",
+        "body": "<link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"xmlrpc.php?rsd\" />\n",
+        "description": "EditURI"
+    },
+    "5f69342186e66": {
+        "prefix": "pingback",
+        "body": "<link rel=\"pingback\" href=\"xmlrpc.php\" />\n",
+        "description": "pingback"
+    },
+    "5f69342186e68": {
+        "prefix": "only",
+        "body": "<link media=\"only screen and (max-device-width: 480px)\" href=\"\" type=\"text/css\" rel=\"stylesheet\" />",
+        "description": "only"
+    },
+    "5f65342186e68": {
+        "prefix": "twitter:card",
+        "body": "<meta property=\"twitter:card\" content=\"summary_large_image\">",
+        "description": "twitter:card"
+    },
+    "5f65342188e68": {
+        "prefix": "twitter:url",
+        "body": "<meta property=\"twitter:url\" content=\"#url\">",
+        "description": "twitter:url"
+    },
+    "5f653421848e68": {
+        "prefix": "twitter:title",
+        "body": "<meta property=\"twitter:title\" content=\"#title\">",
+        "description": "twitter:title"
+    },
+    "5f653441848e68": {
+        "prefix": "twitter:description",
+        "body": "<meta property=\"twitter:description\" content=\"#description\">",
+        "description": "twitter:description"
+    },
+    "5f653441848e98": {
+        "prefix": "twitter:image",
+        "body": "<meta property=\"twitter:image\" content=\"#\">",
+        "description": "twitter:image"
+    }
+}
