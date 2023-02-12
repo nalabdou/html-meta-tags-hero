@@ -30,9 +30,9 @@
         "facebook tags",
         "google tags"
     ],
-    "version": "1.0.0",
+    "version": "1.0.2",
     "engines": {
-        "vscode": "^1.49.0"
+        "vscode": "^1.73.1"
     },
     "contributes": {
         "snippets": [
@@ -46,6 +46,22 @@
             },
             {
                 "language": "php",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "typescriptreact",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
